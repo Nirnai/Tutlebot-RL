@@ -1,3 +1,5 @@
+**Currently refactoring Box2D simulator**
+
 # Map-less Navigation with Obstacle avoidance
 
 ## Abstract
