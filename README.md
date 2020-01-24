@@ -7,6 +7,7 @@ This project uses a `DDQN` (*Double Deep Q-Learning Network*) for a map-less nav
 The project is structured in the following subfolders:
 * [ros](ros) contains the full ros implementation on the Turtlebot
 * [snippets](snippets) contains the code for the different approaches during the project
+* [simulator](simulator) contains a 2D simulator to train the model based on Box2D and SFML
 
 
 ![](rviz_env.png "Turtlebot in DDQN Environment")
